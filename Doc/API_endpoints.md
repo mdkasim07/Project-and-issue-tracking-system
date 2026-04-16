@@ -6,7 +6,7 @@ All API routes (except registration and login) require a **Bearer Token** genera
 
 ---
 
-## 🔐 1. Authentication Endpoints
+## 1. Authentication Endpoints
 
 | Method | Endpoint | Description | Access / Role |
 | :--- | :--- | :--- | :--- |
@@ -14,7 +14,7 @@ All API routes (except registration and login) require a **Bearer Token** genera
 
 ---
 
-## 👤 2. User Management Endpoints
+## 2. User Management Endpoints
 
 | Method | Endpoint | Description | Access / Role |
 | :--- | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ All API routes (except registration and login) require a **Bearer Token** genera
 
 ---
 
-## 📂 3. Project Management Endpoints
+## 3. Project Management Endpoints
 
 | Method | Endpoint | Description | Access / Role |
 | :--- | :--- | :--- | :--- |
@@ -43,7 +43,7 @@ All API routes (except registration and login) require a **Bearer Token** genera
 
 ---
 
-## 🎫 4. Issue Tracking Endpoints
+## 4. Issue Tracking Endpoints
 
 *Note: All endpoints below are prefixed with `/api/projects/{projectId}`.*
 
